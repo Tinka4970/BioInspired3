@@ -1,0 +1,47 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 19814439,
+                "file_path": "results\\OldVersion2\\My Behavior\\My Behavior-19814439.onnx",
+                "reward": 38.38103060948628,
+                "creation_time": 1688280695.993738,
+                "auxillary_file_paths": [
+                    "results\\OldVersion2\\My Behavior\\My Behavior-19814439.pt"
+                ]
+            },
+            {
+                "steps": 19825170,
+                "file_path": "results\\OldVersion2\\My Behavior\\My Behavior-19825170.onnx",
+                "reward": 40.43744178613027,
+                "creation_time": 1688281198.0248275,
+                "auxillary_file_paths": [
+                    "results\\OldVersion2\\My Behavior\\My Behavior-19825170.pt"
+                ]
+            },
+            {
+                "steps": 27362961,
+                "file_path": "results\\OldVersion2\\My Behavior\\My Behavior-27362961.onnx",
+                "reward": 41.85186562859095,
+                "creation_time": 1688333652.3656528,
+                "auxillary_file_paths": [
+                    "results\\OldVersion2\\My Behavior\\My Behavior-27362961.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 27362961,
+            "file_path": "results\\OldVersion2\\My Behavior.onnx",
+            "reward": 41.85186562859095,
+            "creation_time": 1688333652.3656528,
+            "auxillary_file_paths": [
+                "results\\OldVersion2\\My Behavior\\My Behavior-27362961.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cu115"
+    }
+}

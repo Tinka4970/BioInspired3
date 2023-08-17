@@ -1,0 +1,18 @@
+Mono path[0] = 'C:/Users/Tinka/Documents/TU/master/bioInspired/New folder/New Unity Project/Builds/NewObstacles1.1_Data/Managed'
+Mono config path = 'C:/Users/Tinka/Documents/TU/master/bioInspired/New folder/New Unity Project/Builds/MonoBleedingEdge/etc'
+Initialize engine version: 2022.3.1f1 (f18e0c1b5784)
+[Subsystems] Discovering subsystems at path C:/Users/Tinka/Documents/TU/master/bioInspired/New folder/New Unity Project/Builds/NewObstacles1.1_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro P1000 (ID=0x1cbb)
+    Vendor:   NVIDIA
+    VRAM:     4019 MB
+    Driver:   31.0.15.1669
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.265 seconds
+- Finished resetting the current domain, in  0.003 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.250700 ms
